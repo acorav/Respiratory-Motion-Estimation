@@ -10,7 +10,8 @@ Organ motion affects the accuracy of image-guided percutanous procedures taking 
 Current imaging modalities are unable to accurately locate tumour sites with simultaneous high temporal and spatial resolution.
 These innaccuracies affect the outcome and process of diagnostic and therapeutic procedures such as liver biopsy and ablation.
 
-![Screenshot from 2022-06-24 13-35-43](https://user-images.githubusercontent.com/72251458/175526860-42ba1428-38fb-4f79-8c2a-852bd7063e91.png)
+
+![image3](https://user-images.githubusercontent.com/72251458/175568637-e4dd68e0-8b98-42c8-ba26-3dfe2f169e05.png)
 
 
 The objective of this project consists in creating a motion model that provides realtime accurate localisation of the site of interest. 
@@ -22,8 +23,7 @@ The motion model is created using an external surrogate signal and ground truth 
 The current surrogate signals that are explored in this project are:
 - RGB-D camera
 
-
-![Screenshot from 2022-06-24 13-32-21](https://user-images.githubusercontent.com/72251458/175526440-e65db083-79a3-4fca-907e-9702aaaedf61.png)
+![image4](https://user-images.githubusercontent.com/72251458/175568651-3dec5c1b-bef1-4b4f-b51b-b8da65b070b0.png)
 
 
 - Ultrasound transducer
