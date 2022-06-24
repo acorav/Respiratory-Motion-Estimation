@@ -3,6 +3,7 @@
 The aim of this project is to develop a respiratory motion estimation model using different surrogate signals.
 
 Organ motion affects the accuracy of image-guided percutanous procedures taking place in the abdominal/thoracic area.
+
 ![Screenshot from 2022-06-24 13-32-08](https://user-images.githubusercontent.com/72251458/175526375-625cd546-81ef-4bdd-8ce2-c91dd737c147.png)
 
 Current imaging modalities are unable to accurately locate tumour sites with simultaneous high temporal and spatial resolution.
