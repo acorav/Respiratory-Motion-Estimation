@@ -11,7 +11,8 @@ This innaccuracies affect the outcome and process of diagnostic and therapeutic 
 
 
 The objective of this project consists in creating a motion model that provides realtime accurate localisation of the site of interest. 
-The motion model is created using an external surrogate signal and ground truth data provided by CT or MRI images. 
+The motion model is created using an external surrogate signal and ground truth data provided by CT or MRI images.
+
 ![Screenshot from 2022-06-24 13-31-46](https://user-images.githubusercontent.com/72251458/175526499-f4a1b1e9-d7c3-42af-9876-dd1c000528e2.png)
 
 The current surrogate signals that are explored in this project are:
