@@ -1,4 +1,4 @@
-# Respiratory Motion Compensation for image-guided percutanous procedures using surrogate signals. 
+# Respiratory Motion Compensation for image-guided percutanous procedures using surrogate signals
 
 The aim of this project is to develop a respiratory motion estimation model using different surrogate signals.
 
