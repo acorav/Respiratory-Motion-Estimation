@@ -8,6 +8,7 @@ Organ motion affects the accuracy of image-guided percutanous procedures taking 
 
 Current imaging modalities are unable to accurately locate tumour sites with simultaneous high temporal and spatial resolution.
 This innaccuracies affect the outcome and process of diagnostic and therapeutic treatments such as liver biopsy and ablation.
+
 ![Screenshot from 2022-06-24 13-35-43](https://user-images.githubusercontent.com/72251458/175526860-42ba1428-38fb-4f79-8c2a-852bd7063e91.png)
 
 
