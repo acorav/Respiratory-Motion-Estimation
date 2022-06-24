@@ -4,7 +4,8 @@ The aim of this project is to develop a respiratory motion estimation model usin
 
 Organ motion affects the accuracy of image-guided percutanous procedures taking place in the abdominal/thoracic area.
 
-![Screenshot from 2022-06-24 13-32-08](https://user-images.githubusercontent.com/72251458/175526375-625cd546-81ef-4bdd-8ce2-c91dd737c147.png)
+![image1](https://user-images.githubusercontent.com/72251458/175567988-a2a5f49f-d652-49e4-9acb-5a2e157531b6.png)
+
 
 Current imaging modalities are unable to accurately locate tumour sites with simultaneous high temporal and spatial resolution.
 These innaccuracies affect the outcome and process of diagnostic and therapeutic procedures such as liver biopsy and ablation.
@@ -15,7 +16,8 @@ These innaccuracies affect the outcome and process of diagnostic and therapeutic
 The objective of this project consists in creating a motion model that provides realtime accurate localisation of the site of interest. 
 The motion model is created using an external surrogate signal and ground truth data provided by CT or MRI images.
 
-![Screenshot from 2022-06-24 13-31-46](https://user-images.githubusercontent.com/72251458/175526499-f4a1b1e9-d7c3-42af-9876-dd1c000528e2.png)
+![image2](https://user-images.githubusercontent.com/72251458/175568036-54ba733f-340f-4b20-b41f-97cbb278863e.png)
+
 
 The current surrogate signals that are explored in this project are:
 - RGB-D camera
